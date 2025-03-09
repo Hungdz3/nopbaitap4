@@ -1,0 +1,26 @@
+.cabai {
+    font-family: 'Roboto Slab';
+    width: 560px;
+    margin: 0px auto;
+    border: 2px solid #000;
+    padding: 20px;
+    box-sizing: border-box;
+    height: 430px;
+}
+body {
+    
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#tieude {
+    color: rgb(19,151, 151);
+}
+.bantin {
+    color: rgb(66,189,189);
+}
+.bantin li:hover {
+    color: rgb(228,228,19);
+}
